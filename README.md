@@ -1,6 +1,7 @@
+##_BHUSHITHA
+
 <a href="https://ibb.co/jJh5R9h"><img src="https://i.ibb.co/y40RSm0/large.png" alt="large" border="0"></a>
 
-##BHUSHITHA
 
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
 #### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
